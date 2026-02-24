@@ -1,1 +1,59 @@
-#Your Json Formated Cookies Here
+[
+  {
+    "name": "_ga",
+    "value": "GA1.2.1696406967.1771912851",
+    "domain": ".ivasms.com",
+    "path": "/",
+    "expires": 1806474039.590177,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_gid",
+    "value": "GA1.2.1149341399.1771912851",
+    "domain": ".ivasms.com",
+    "path": "/",
+    "expires": 1772000439,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.1.1771912850865.681471624354646194",
+    "domain": ".ivasms.com",
+    "path": "/",
+    "expires": 1779690039,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "XSRF-TOKEN",
+    "value": "eyJpdiI6IjA4MUlBRUdvVlVRVXhmdjR0dGtmZGc9PSIsInZhbHVlIjoiL0J0NkpGRGloajlnMWZ0bWVQbTMvL2lWL3NyZW9NVFZ4bHFIWWUvditHYnJQaktTTGdMTllUNnFQekRQQzVlTXhha1YrdGpsWG14d0xCYk9vQkE0ZVFNTVNjaG1Ld3ZwQk1JcWJiaDNoTmx5aFVWTmRwNTBQQUVlQzZ1QnRSTHEiLCJtYWMiOiJlMmJkMGUzMTcyOWQ3Y2EwOWIyZDk4MjFmZTVkODcyMjA5MmE1MzBlYmRlY2JlZGIzNTY5MjRjYjE1NjFmZDhkIiwidGFnIjoiIn0%3D",
+    "domain": "www.ivasms.com",
+    "path": "/",
+    "expires": 1771921238.993149,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ivas_sms_session",
+    "value": "eyJpdiI6IlF1YlRkbVBlbzg2TkFsQ3cxZlE3ZFE9PSIsInZhbHVlIjoib0MyQTRDZlVjRDFsZWZabk5MVXVMUEMwZlFBYzh5a05qNnA4ZkpyQjBxSHM3TG5NU2RvQk56RFAyS0dWSjFOYno4SStyTkRTRkYzRWhFTUI4U2YvVDIxUlpMemRJWDUyMUxEOGI5MDh3MFVkY05MdGVjaVhQNkZIZjBMQmtLL0siLCJtYWMiOiIxOTZiNjE3ZTg4ZjZhMWMwNDgxYjI0YmYxM2Q0OTlmYTk0NjVjZWI0YjIyZGExMjdmNGI2ODc5MWE4NTY4NTQzIiwidGFnIjoiIn0%3D",
+    "domain": "www.ivasms.com",
+    "path": "/",
+    "expires": 1771921238.993741,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gat_gtag_UA_191466370_1",
+    "value": "1",
+    "domain": ".ivasms.com",
+    "path": "/",
+    "expires": 1771914099,
+    "httpOnly": false,
+    "secure": false
+  }
+]
